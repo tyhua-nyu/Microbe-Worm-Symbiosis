@@ -3,7 +3,7 @@ Simulate the mass and heat balance associated with methanotrophy and methanogene
 ## Usage
 
 ### osc.m
-construct the system of ODEs for heat and mass balance
+Construct the system of ODEs for heat and mass balance
 ### criticalT.m
 Draw critical temperature plot at where microbial heat consumption equals methane hydrate dissociation heat
 ### Calqc.m
