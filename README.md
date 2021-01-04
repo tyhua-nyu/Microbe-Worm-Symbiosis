@@ -21,7 +21,3 @@ Contains all raw data used to plot figures
 * **Maisha T. Ahmad** : Data Curation, Formal Analysis, Investigation, Visualization
 * **Tenzin Choezin** : Formal Analysis, Investigation
 * **Ryan L. Hartman** : Conceptualization, Funding acquisition, Methodology, Project Administration, Resources, Supervision, Writing – Review & Editing, Corresponding
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
