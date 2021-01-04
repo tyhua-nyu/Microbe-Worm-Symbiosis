@@ -12,6 +12,8 @@ Calculate the net heat
 Solve the system of ODEs
 ### test02.m
 Plot gas hydrate inventory distribution
+### RawData
+Contains all raw data used to plot figures
 
 ## Authors
 
