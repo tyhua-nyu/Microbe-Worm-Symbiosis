@@ -1,5 +1,5 @@
 # Microbe-Worm-Symbiosis
-
+Simulate the mass and heat balance associated with methanotrophy and methanogenesis in a proposed microbe-worm symbiotic system
 ## Usage
 
 ### osc.m
