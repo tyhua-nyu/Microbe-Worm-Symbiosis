@@ -11,7 +11,7 @@ Calculation of the net heat generation
 ### call_osc.m
 Solve the system of ODEs
 ### test02.m
-Calculations and Plots of gas hydrate inventory distribution
+Calculations and plots of gas hydrate inventory distribution
 ### RawData
 Contains all raw data used to plot figures
 
