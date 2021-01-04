@@ -1,17 +1,17 @@
 # Microbe-Worm-Symbiosis
-Simulate the mass and heat balance associated with methanotrophy and methanogenesis in a proposed microbe-worm symbiotic system
+Simulations of coupled mass and energy balances of methanogensis and methanotrophy, involving a mathematical microbe-worm symbiotic relationship, were performed.
 ## Usage
 
 ### osc.m
-Construct the system of ODEs for heat and mass balance
+Construct the system of ODEs for the energy and mass balances
 ### criticalT.m
-Draw critical temperature plot at where microbial heat consumption equals methane hydrate dissociation heat
+Calculation and plot of critical temperature where microbial heat consumption is in equilibrium with methane hydrate dissociation
 ### Calqc.m
-Calculate the net heat
+Calculation of the net heat generation
 ### call_osc.m
 Solve the system of ODEs
 ### test02.m
-Plot gas hydrate inventory distribution
+Calculations and Plots of gas hydrate inventory distribution
 ### RawData
 Contains all raw data used to plot figures
 
